@@ -68,7 +68,6 @@ body {
   display: inline-block;
   text-decoration: none;
   line-height: 64px;
-
 }
 
 @media screen and (min-width: 768px) {
@@ -77,9 +76,7 @@ body {
   }
 }
 @media screen and (min-width: 1024px) {
- .button:hover{
-  background-color: var(--primary-color);
- }
+  .button:hover {
+    background-color: var(--primary-color);
   }
 }
-
